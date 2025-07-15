@@ -93,6 +93,7 @@ contributor:
   schemaKey: Organization
   url: https://www.nimh.nih.gov/
 dateCreated: '2025-07-11T18:49:45.394857+00:00'
+datePublished: '2025-07-15T20:16:42.062265+00:00'
 description: BICAN R01 Neuromodulation mouse upload (Q3 2025)
 ethicsApproval: []
 id: DANDI:001534/draft
@@ -106,6 +107,18 @@ manifestLocation:
 name: 20250707_Patchseq_BICAN_R01_Neuromodulation_mouse
 protocol:
 - https://www.protocols.io/view/patch-seq-recording-and-extraction-8epv51n45l1b/v3
+publishedBy:
+  endDate: '2025-07-15T20:16:42.062265+00:00'
+  id: urn:uuid:3052ca53-4961-46c6-98a8-212b49197094
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-07-15T20:16:42.062265+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:995aa035-9bdb-41ed-af33-c3d956d27201
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
